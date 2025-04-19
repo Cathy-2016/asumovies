@@ -1,0 +1,51 @@
+Title: Get Out
+Genre: Animation
+Director Name: Pete Doctor
+Director Name: Ronnie del Carmen
+Studio: Disney
+Year: 2015
+Title: The Dark Knight
+Genre: Action
+Director Name: Christopher Nolan
+Studio: Warner Bros.
+Year: 2008
+Title: Toy Story 4
+Genre: Animation
+Director Name: Josh Cooley
+Studio: Disney/Pixar
+Year: 2019
+Title: The Hangover
+Genre: Comedy
+Director Name: Todd Phillips
+Studio: Warner Bros.
+Year: 2009
+Title: The Shawshank Redemption
+Genre: Drama
+Director Name: Frank Darabont
+Studio: Castle Rock Entertainment
+Year: 1994
+Title: Inception
+Genre: Fiction (Sci-Fi)
+Director Name: Christopher Nolan
+Studio: Warner Bros.
+Year: 2010
+Title: La La Land
+Genre: Musical
+Director Name: Damien Chazelle
+Studio: Lionsgate
+Year: 2016
+Title: The Avengers
+Genre: Superhero
+Director Name: Joss Whedon
+Studio: Marvel Studios
+Year: 2012
+Title: The Conjuring
+Genre: Horror
+Director Name: James Wan
+Studio: New Line Cinema
+Year: 2013
+Title: Up
+Genre: Animation
+Director Name: Pete Docter
+Studio: Disney/Pixar
+Year: 2009
